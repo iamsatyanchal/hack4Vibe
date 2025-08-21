@@ -1,77 +1,73 @@
-# ⚡ Hack4Vibe
+# Welcome to your Lovable project
 
-An AI-powered platform to **track, manage and win hackathons** — effortlessly.
+## Project info
 
-🚀 This tool helps hackathon participants stay on top of deadlines, generate tailored project ideas, and manage their team and progress — all in one place.
+**URL**: https://lovable.dev/projects/ef5afd5e-6179-461d-9dc6-22a3f6190556
 
----
+## How can I edit this code?
 
-## ✨ Features
+There are several ways of editing your application.
 
-- 🔗 **Auto Hackathon Scraper**  
-  Paste any hackathon link and let the platform extract all the info:  
-  Timeline, rules, judges, prizes, themes, deadlines, and more.
+**Use Lovable**
 
-- 🤖 **AI-Powered Idea Generator**  
-  Get **4 unique project ideas** tailored to your selected hackathon — complete with:
-  - ✅ Core features
-  - 🎯 Bonus features
-  - 🔌 List of **free APIs** to speed up development
-  - 🪄 One-click **prompt copy** to kickstart AI code generation
+Simply visit the [Lovable Project](https://lovable.dev/projects/ef5afd5e-6179-461d-9dc6-22a3f6190556) and start prompting.
 
-- 📦 **Project Organizer** *(In Progress)*  
-  Save ideas, revisit them later, and manage your hackathon tasks from a single dashboard.
+Changes made via Lovable will be committed automatically to this repo.
 
-- 📊 **GitHub Repo Integration** *(Planned)*  
-  Track real-time project completion from your linked GitHub repository.
+**Use your preferred IDE**
 
-- 👨‍👩‍👧‍👦 **Team Collaboration Tools** *(Planned)*  
-  Manage team members, assign tasks, and build together.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
----
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-## 📷 Demo (Coming Soon)
+Follow these steps:
 
-Screenshots, walkthrough GIFs, or a demo video will be added here once the platform is polished.
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
----
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-## 🛠️ Tech Stack
+# Step 3: Install the necessary dependencies.
+npm i
 
-- **Frontend**: React (planned)
-- **Backend**: Node.js / Express
-- **Scraping**: Cheerio / Puppeteer
-- **AI**: OpenAI / Custom LLM prompts
-- **Database**: TBD (likely Supabase or Firebase)
-- **Others**: GitHub API, RapidAPI, etc.
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
 
----
+**Edit a file directly in GitHub**
 
-## 🧪 Current Status
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
 
-> 🧱 **Build in progress... ~40% complete**  
-> Running on `localhost` — will ship once polished.
+**Use GitHub Codespaces**
 
----
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## 💡 Naming Help Wanted!
+## What technologies are used for this project?
 
-The project is still unnamed — if you’ve got a killer name idea, I’d love to hear it! (Drop a GitHub issue 😄)
+This project is built with:
 
----
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
 
-## 📬 Feedback or Suggestions?
+## How can I deploy this project?
 
-Feel free to open an issue or reach out. Your input = ❤️
+Simply open [Lovable](https://lovable.dev/projects/ef5afd5e-6179-461d-9dc6-22a3f6190556) and click on Share -> Publish.
 
----
+## Can I connect a custom domain to my Lovable project?
 
-## 🥇 This project was inspired by [Hack Club's Summer of Making](https://summer.hackclub.com/)  
-Special thanks to the Hack Club community for pushing me to turn this from an idea into a real build.
+Yes, you can!
 
----
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-## 📜 License
-
-MIT License — do whatever you want with it, just don't forget to build something cool 😉
-
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
