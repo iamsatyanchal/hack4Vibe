@@ -45,6 +45,9 @@ Hack4Vibe helps participants stay on top of deadlines, generate tailored project
 
 ## 📷 Demo
 
+![Demo Screenshot]
+(https://summer.hackclub.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjMxNTUsInB1ciI6ImJsb2JfaWQifX0=--fdbea6657ed43c2632ea4bf5d7b1127116a5f8dc/Screenshot_5-9-2025_71648_hack4vibe.vercel.app.jpeg)
+
 ![Demo Screenshot](https://summer.hackclub.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY5ODQsInB1ciI6ImJsb2JfaWQifX0=--8f4adf67086933d3b9419c81a2a86a3678d59d9d/Screenshot_1-8-2025_102431.jpeg)
 
 ![Demo Screenshot](https://summer.hackclub.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTMwMDcsInB1ciI6ImJsb2JfaWQifX0=--f691f61cb12900ad8b5ffc54bf13a4120cedd968/Screenshot_17-8-2025_104822_hack4vibe.vercel.app.jpeg)
