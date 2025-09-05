@@ -22,7 +22,7 @@ const Dashboard = () => {
       name: "AI for Good Hackathon",
       status: "Upcoming", 
       endDate: "Jan 20, 2025",
-      projects: 0
+      projects: 4
     }
   ];
 
